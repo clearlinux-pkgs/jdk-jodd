@@ -1,6 +1,6 @@
 Name     : jdk-jodd
 Version  : 3.5.2
-Release  : 1
+Release  : 2
 URL      : http://repo1.maven.org/maven2/org/jodd/jodd-bean/3.5.2/jodd-bean-3.5.2.jar
 Source0  : http://repo1.maven.org/maven2/org/jodd/jodd-bean/3.5.2/jodd-bean-3.5.2.jar
 Source1  : http://repo1.maven.org/maven2/org/jodd/jodd-bean/3.5.2/jodd-bean-3.5.2.pom
